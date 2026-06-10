@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Helper utilities for reusable regex operations.
+ * Utilitaires pour opérations regex réutilisables.
  */
 public final class RegexUtils {
     private RegexUtils() {

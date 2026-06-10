@@ -4,7 +4,7 @@ import java.nio.file.Path;
 import java.util.List;
 
 /**
- * Utilities for reading and writing simple CSV-style text files.
+ * Utilitaires pour lire et écrire des fichiers texte CSV simples.
  */
 public final class CsvUtils {
     private CsvUtils() {
